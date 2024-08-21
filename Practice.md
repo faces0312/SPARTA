@@ -26,6 +26,6 @@
 > 코드 및 파일 수정<br>
 > git add .<br>
 > git commit -m “이름”<br>
-> git push origin master (여기서 master는 설정한 branch 이름이다)
+> git push origin main (여기서 mian는 설정한 branch 이름이다)
 <br>
  
