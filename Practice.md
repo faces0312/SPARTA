@@ -26,7 +26,7 @@
 > git push origin main
 <br>
 
-- *이후에 파일 올리는 법
+- *이후에 파일 올리는 법*
 > 코드 및 파일 수정<br>
 > git add .<br>
 > git commit -m “이름”<br>
