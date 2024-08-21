@@ -7,3 +7,5 @@
 
 
 **Fighting!**
+
+## 1. GitHub 페이지에 올리기
