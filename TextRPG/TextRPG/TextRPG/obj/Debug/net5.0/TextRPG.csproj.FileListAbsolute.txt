@@ -1,0 +1,16 @@
+C:\Users\SPARTA\TextRPG\TextRPG\TextRPG\bin\Debug\net5.0\TextRPG.exe
+C:\Users\SPARTA\TextRPG\TextRPG\TextRPG\bin\Debug\net5.0\TextRPG.deps.json
+C:\Users\SPARTA\TextRPG\TextRPG\TextRPG\bin\Debug\net5.0\TextRPG.runtimeconfig.json
+C:\Users\SPARTA\TextRPG\TextRPG\TextRPG\bin\Debug\net5.0\TextRPG.runtimeconfig.dev.json
+C:\Users\SPARTA\TextRPG\TextRPG\TextRPG\bin\Debug\net5.0\TextRPG.dll
+C:\Users\SPARTA\TextRPG\TextRPG\TextRPG\bin\Debug\net5.0\ref\TextRPG.dll
+C:\Users\SPARTA\TextRPG\TextRPG\TextRPG\bin\Debug\net5.0\TextRPG.pdb
+C:\Users\SPARTA\TextRPG\TextRPG\TextRPG\obj\Debug\net5.0\TextRPG.csproj.AssemblyReference.cache
+C:\Users\SPARTA\TextRPG\TextRPG\TextRPG\obj\Debug\net5.0\TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SPARTA\TextRPG\TextRPG\TextRPG\obj\Debug\net5.0\TextRPG.AssemblyInfoInputs.cache
+C:\Users\SPARTA\TextRPG\TextRPG\TextRPG\obj\Debug\net5.0\TextRPG.AssemblyInfo.cs
+C:\Users\SPARTA\TextRPG\TextRPG\TextRPG\obj\Debug\net5.0\TextRPG.csproj.CoreCompileInputs.cache
+C:\Users\SPARTA\TextRPG\TextRPG\TextRPG\obj\Debug\net5.0\TextRPG.dll
+C:\Users\SPARTA\TextRPG\TextRPG\TextRPG\obj\Debug\net5.0\ref\TextRPG.dll
+C:\Users\SPARTA\TextRPG\TextRPG\TextRPG\obj\Debug\net5.0\TextRPG.pdb
+C:\Users\SPARTA\TextRPG\TextRPG\TextRPG\obj\Debug\net5.0\TextRPG.genruntimeconfig.cache
